@@ -1,10 +1,10 @@
 # Privacy Policy
 
-*Last updated: January 17, 2022*
+*Last updated: April 28, 2022*
 
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Mipke LLC including Bricks FTW (bricksftw.com) and Everyday Words (everydaywords.io, app.everydaywords.io).
+This policy applies to all products built and maintained by Everyday Words LLC including Everyday Words (everydaywords.io, app.everydaywords.io).
 
 ## What we collect and why
 
@@ -12,11 +12,11 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a Mipke LLC product, we typically ask for identifying information such as your name, and email address. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
+When you sign up for a Everyday Words LLC product, we typically ask for identifying information such as your name, and email address. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-When you pay for a Mipke LLC product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a Everyday Words LLC product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### Geolocation data
 
@@ -42,7 +42,7 @@ At this time, our sites and applications do not respond to Do Not Track beacons 
 
 ### Voluntary correspondence
 
-When you write Mipke LLC with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
+When you write Everyday Words LLC with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
@@ -56,7 +56,7 @@ We also do not collect any biometric data. You are given the option to add a pic
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. Having subprocessors means we are using technology to access your data. No Mipke LLC human looks at your data for these purposes. We also use some other processors for other business functions.
+**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. Having subprocessors means we are using technology to access your data. No Everyday Words LLC human looks at your data for these purposes. We also use some other processors for other business functions.
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
@@ -64,22 +64,22 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-Mipke LLC is a US company and all data infrastructure are located in the US.
+Everyday Words LLC is a US company and all data infrastructure are located in the US.
 
-* If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Mipke LLC with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
-* Similarly, if Mipke LLC receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
-* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can request to do so by utilizing the built-in functionality of our apps or by emailing jared@mipke.com.
+* If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Everyday Words LLC with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
+* Similarly, if Everyday Words LLC receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
+* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can request to do so by utilizing the built-in functionality of our apps or by emailing support@everydaywords.io.
 
-Finally, if Mipke LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+Finally, if Everyday Words LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
-At Mipke LLC, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Mipke LLC recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
+At Everyday Words LLC, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Everyday Words LLC recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 * **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Mipke LLC services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Everyday Words LLC services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. To identify your specific authority or find out more about this right, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
@@ -89,7 +89,7 @@ At Mipke LLC, we apply the same data rights to all customers, regardless of thei
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact jared@mipke.com. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact support@everydaywords.io. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -109,9 +109,9 @@ Our products and other web properties are operated in the United States. If you 
 
 ## When transferring personal data from the EU
 
-The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Mipke LLC has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Everyday Words LLC has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
 
-There are a few ad-hoc cases where EU personal data may be transferred to the US related to Mipke LLC operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
+There are a few ad-hoc cases where EU personal data may be transferred to the US related to Everyday Words LLC operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
 
 ## EU-US and Swiss-US Privacy Shield policy
 
@@ -119,27 +119,27 @@ The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement betwe
 
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
 
-Mipke LLC complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+Everyday Words LLC complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-Mipke LLC is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks.
+Everyday Words LLC is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks.
 
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
 
-- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact jared@mipke.com.
+- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact support@everydaywords.io.
 - We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 -	We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
 -	We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
 
 ### We commit to resolving all complaints
 
-In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should contact jared@mipke.com.
+In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should contact support@everydaywords.io.
 
-Mipke LLC (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
+Everyday Words LLC (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
 If your EU-US Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since November 2020 [on GitHub](https://github.com/Mipke/policies/blob/main).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since November 2020 [on GitHub](https://github.com/Jcary14/Everyday-words-/blob/main).
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing jared@mipke.com
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing support@everydaywords.io
