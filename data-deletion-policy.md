@@ -1,6 +1,6 @@
 # Data Deletion Policy
 
-*Last updated: Januray 17, 2022*
+*Last updated: April 28, 2022*
 
-If you wish to delete your account & all associated data permanently in any Mipke LLC service,
-please send an email to jared@mipke.com
+If you wish to delete your account & all associated data permanently in any Everyday Words LLC service,
+please send an email to support@everydaywords.io
